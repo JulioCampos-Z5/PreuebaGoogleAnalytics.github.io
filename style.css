@@ -1,0 +1,28 @@
+main {
+    font-family: 'Noto Sans';
+}
+
+.C {}
+
+.container {}
+
+.subContainer {
+    display: block;
+    margin-top: 19%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background-color: rgb(232, 234, 237);
+    box-shadow: 5px 5px 5px;
+    width: 360px;
+    height: 235px;
+    padding: 1px 25px;
+
+    h1 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+}
